@@ -1,0 +1,31 @@
+{
+	"name": "NetlrBot",
+	"version": "1.1.0",
+	"description": "NetlrBot is a bot requested by Netlr on Reddit",
+	"main": "index.js",
+	"dependencies": {
+		"discord.js": "^11.5.1",
+		"enmap": "^2.6.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/x-sNOw/NetlrBot.git"
+	},
+	"keywords": [
+		"discord-js",
+		"discord-bot",
+		"nodejs",
+		"programming",
+		"google-api"
+	],
+	"author": "x-sNOw",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/x-sNOw/NetlrBot/issues"
+	},
+	"homepage": "https://github.com/x-sNOw/NetlrBot#readme"
+}
