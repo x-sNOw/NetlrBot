@@ -1,2 +1,5 @@
 # NetlrBot
 A bot requested by a Reddit user
+#How to set it up?
+Go on https://discordapp.com/developers/applications/ and login with your account then proceed to click on "New Application" then name it whatever you would like it to be named, give it a Profile Picture and create it, then click on "Bot" -> "Add Bot" -> "Yes, Do it" make sure to copy the "Token" to your clipboard, then open the folder -> jsons -> config.json -> and copy your token. 
+Then click the windows button + r and type "cmd" then hit enter proceed to enter the bot's director by doing "cd Desktop/NetlrBot" if you have placed the folder on your Desktop then you want to type "npm i" in the command prompt knowingly that you have NodeJS installed. Now back to https://discordapp.com/developers/applications/ go to OAuth2 select the "bot" box then scroll down and select the "Administrator" box. Finally copy the link and open it in a new tab then add the bot to your server! Yay your bot is in the server! Back to your command prompt type "node index.js" or "node ." and the bot will come online! Magic! Now you can close everything but the Command Prompt, Enjoy.
